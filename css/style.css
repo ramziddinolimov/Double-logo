@@ -183,3 +183,71 @@ body {
     line-height: 27px;
     
 }
+
+.tip {
+    background-color: #EBEBEB;
+    background-size: 100%;
+    text-align: center;
+}
+
+.tip-title {
+    padding-top: 100px;
+    color: #333333;
+    font-size: 31px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tip-text {
+    font-size: 15px;
+    color: #333333;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20px 0;
+}
+
+.tip-photo {
+    width: 350px;
+}
+
+.tip-subtext {
+    color: #777777;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    width: 30%;
+    margin: auto;
+}
+
+.tip-list {
+    padding-bottom: 60px;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tip-item {
+    border-radius: 5px;
+    padding: 30px;
+    width: 30%;
+    background-color: #fff;
+}
+
+.tip-item img {
+    width: 100px;
+    margin: 25px 0;
+}
+
+.tip-item p {
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.tip-item p samp {
+    background-color: rgb(45, 160, 206);
+    color: #fff;
+    font-weight: bold;
+    padding: 4px 0;
+    border-radius: 5px;
+}
