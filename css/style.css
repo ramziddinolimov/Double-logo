@@ -118,3 +118,68 @@ body {
     justify-content: space-between;
     padding: 40px 0;
 }
+
+.parents .container {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.parents-box, .parents-box2 {
+    width: 45%;
+    padding-bottom: 50px;
+}
+
+.parents-box h2 {
+    margin-top: 40px;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.parents-box p {
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 27px;
+    margin-top: 20px;
+}
+
+.parents-box img {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.parents-box b {
+    margin-left: 100px;
+    font-size: 12px;
+    color: #777777;
+}
+
+.parents-box2 img {
+    width: 350px;
+    margin-left: 100px;
+}
+
+.parents-box2 span {
+    color: #777777;
+    font-size: 12px;
+    margin-left: 170px;
+}
+
+.parents-box2 h2 {
+    margin: 20px 0;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.parents-box2 p {
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 27px;
+    
+}
